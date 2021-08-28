@@ -10,6 +10,7 @@ vgcore*
 *.txt
 *.gcda
 *.gcno
+*.plist
 
 # GDB files
 *peda*
